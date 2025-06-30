@@ -43,11 +43,11 @@ This project showcases practical data management and analysis using Excel and de
 - **Sheet Linking** and lookups for generating report cards
 
 ## 🧪 Sample Screenshots
-- ![First Semester](images/first-semester.png)
-- ![Second Semester](images/second-semester.png)
-- ![Average](images/average.png)
-- ![Roster](images/roster.png)
-- ![Result Report](images/card-report.png)
+- ![First Semester](images/first-semester.PNG)
+- ![Second Semester](images/second-semester.PNG)
+- ![Average](images/average.PNG)
+- ![Roster](images/roster.PNG)
+- ![Result Report](images/card-report.PNG)
 
 
 ## 🔒 Data Privacy Notice
